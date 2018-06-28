@@ -7,6 +7,5 @@ if you can play		- must play
 if you cant play	- take card from the deck.
 ## Instructions:
 The objective is to finish your cards. To do that you have to move your cards to the center pile. There are some action cards, playing them changes the flow of the game.
-
 ## Made by Ben Cohen & Kim Usher
 #### Game credit for Shafir Games
